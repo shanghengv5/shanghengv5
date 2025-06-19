@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Guangzhou Kumai Tech Co - backend developer
 - 🌱 I’m currently learning ...
   - ✅: [MIT6.5840 Distributed System](https://github.com/shanghengv5/6.5840Lab) (Done)
   - ✅: [CS106L: Standard C++ Programming](https://github.com/shanghengv5/Notes/tree/main/CS106L-Standard-C-Programming) (Partial Done)
