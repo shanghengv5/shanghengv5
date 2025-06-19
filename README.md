@@ -7,7 +7,7 @@
   - ✅: [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (Done)
   - ✅: [CS144: Computer Network](https://github.com/shanghengv5/Notes/tree/main/CS144) (Done)
   - ✅: [MIT 6.1810: Operating System Engineering](https://github.com/shanghengv5/Notes/tree/main/MIT6.180) (Done)
-  - ❎: [CMU 15-445: Database Systems]() (Waiting)
+  - ❎: [CMU 15-445: Database Systems](https://15445.courses.cs.cmu.edu/spring2025/schedule.html) (Coming soon)
 
 - 📫 How to reach me: shanghengv5@gmail.com
 
